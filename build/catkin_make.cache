@@ -1,0 +1,2 @@
+robot
+-DCATKIN_DEVEL_PREFIX=/home/vuweed/Documents/ROS/demo/devel -DCMAKE_INSTALL_PREFIX=/home/vuweed/Documents/ROS/demo/install -G Unix Makefiles
